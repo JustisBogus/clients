@@ -1,0 +1,26 @@
+.error {
+    color: #ef4a48; 
+ 
+ }
+ 
+ .error ul {
+     list-style : none;
+ }
+ 
+ .success 
+ {
+     color: #07a89c;
+ }
+ 
+ .navbar-brand {
+     color: #777;
+ }
+
+ .nav-item dropdown 
+ {
+color:#50bfe6;
+ }
+
+ a {
+     color:#50bfe6;
+ }
